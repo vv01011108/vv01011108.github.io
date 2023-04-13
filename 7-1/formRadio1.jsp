@@ -1,6 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <% request.setCharacterEncoding("utf-8"); %>
-<!doctype html> <!-- formRadio.jsp -->
+<!doctype html> <!-- formRadio1.jsp -->
 <html><head><meta name="viewport" content="width=device-width, initial-scale=1"/>
 <title>폼 학습</title></head>
 <body>
